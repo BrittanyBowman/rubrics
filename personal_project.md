@@ -1,7 +1,5 @@
 # DevMountain Phoenix Personal Project Rubric
 
-> This is a work in progress and will change before your personal project begins.
-
 The intent of a personal project is to build something using technologies you have been taught, as well as to learn new ones on your own.
 
 This rubric serves to guide students and mentors in the requirements. Wherever there is ambiguity on what the requirements are, focus on the goal of learning and preparing for the real world.
@@ -13,7 +11,7 @@ Always required:
 * Full stack CRUD site
     * Create/POST
     * Read/GET
-    * Update/PATCH
+    * Update (PUT or PATCH, used [correctly](https://stackoverflow.com/questions/28459418/rest-api-put-vs-patch-with-real-life-examples))
     * Delete/DELETE
     * Each of the above must manipulate the database (except GET).
 * 1 foreign key and a JOIN statement
@@ -297,14 +295,11 @@ Your presentation must be between within 60 seconds of your target to get 10 poi
 **Points** 10 points. 0 points if you go under or over.
 
 ## Awards
-We'll be putting more specific defintions on these, but here are the award titles:
+
 * Best Overall
 * Most Technical
 * Best presentation
 * CSS/Design
 * Best solution for a business
-Each award will have a first place project and a runner up project.
 
-## To add:
-* Goal is learning.
-* Can earn partial points sometimes, like on "responsive". If you have a little bit that's responsive, but not the whole site, this isn't worth full points. On the other hand, if e.g. a student tries to use Digital Ocean but it doesn't work, then it should probably be 0 points (although the student is allowed to come back after they've fixed it).
+Each award will have a first place project and a runner-up.
