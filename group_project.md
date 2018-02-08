@@ -1,3 +1,3 @@
-# DevMountain Phoenix Group Project Rubric
+# DevMountain Group Project Rubric
 
 This is a placeholder
