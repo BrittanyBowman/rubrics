@@ -1,7 +1,7 @@
-# DevMountain Phoenix Project Rubrics
+# DevMountain Project Rubrics
 
 Click to read more:
 
-* [NoDb project](nodb.md)
-* [Personal project](personal_project.md)
-* [Group project](group_project.md)
+* [NoDb Project](nodb.md)
+* [Personal Project](personal_project.md)
+* [Group Project](group_project.md)

@@ -1,21 +1,21 @@
-# DevMountain Phoenix NoDb Project Rubric
+# DevMountain NoDb Project Rubric
 
 To badge from DevMountain, you must do the required tasks, and get 3+ points.
 
 When in doubt, ask your mentor if you are on track. Don't wait until the last second.
 
-| Requirement                                      | Points   | Max |
-|--------------------------------------------------|----------|-----|
-|  1. 1 stateful component, not counting App.js    | required |     |
-|  2. 1 stateless functional component             | required |     |
-|  3. 1 GET endpoint in Express                    | required |     |
-|  4. 1 endpoint that uses `req.body`              | required |     |
-|  5. each component above minimum                 | 0.5      | 1   |
-|  6. use a single component more that once        | 0.5      | 1   |
-|  7. URL parameter                                | 0.25     | 0.5 |
-|  8. Query string parameter                       | 0.25     | 0.5 |
-|  9. external web API, per endpoint used          | 0.5      | 2   |
-| 10. full CRUD                                    | 1        | 1   |
+| Requirement                                  | Points   | Max |
+| -------------------------------------------- | -------- | --- |
+| 1. 1 stateful component, not counting App.js | required |     |
+| 2. 1 stateless functional component          | required |     |
+| 3. 1 GET endpoint in Express                 | required |     |
+| 4. 1 endpoint that uses `req.body`           | required |     |
+| 5. each component above minimum              | 0.5      | 1   |
+| 6. use a single component more than once     | 0.5      | 1   |
+| 7. URL parameter                             | 0.25     | 0.5 |
+| 8. Query string parameter                    | 0.25     | 0.5 |
+| 9. external web API, per endpoint used       | 0.5      | 2   |
+| 10. full CRUD                                | 1        | 1   |
 
 ## Descriptions of Tasks
 
