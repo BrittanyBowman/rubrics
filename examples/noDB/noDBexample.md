@@ -2,22 +2,22 @@
 Basic NoDB example
 
 Components
-- Header Stateless Component (required)
-- List Components (required)
-- Todo State Component to keep track if the task is being edited (.5)
-- Input State Component for new Todo (.5)
+- Header Stateless Component (4)
+- List Components (4)
+- Todo State Component to keep track if the task is being edited (2)
+- Input State Component for new Todo (2)
 
 Endpoints
-- Get Endpoint to get tasks (required)
-- Post Endpoint to create new tasks (required)
-- Put Endpoint to update tasks by id (.25)
-- Delete Endpoint to delete tasks (.25)
+- Get Endpoint to get tasks (4)
+- Post Endpoint to create new tasks (4)
+- Put Endpoint to update tasks by id (1)
+- Delete Endpoint to delete tasks (1)
 
-- Full Crud (1)
+- Full Crud (4)
 
 ![Wireframe Example](NoDBWireframe.png)
 
-This will get you to 2.5/3 points. You will need to add just a little more to make it a full project.
+This will get you to 26/28 points. You will need to add just a little more to make it a full project.
 
 Maybe instead of simple todos they have more information that shows in a pop up modal when you click on them.  
 
