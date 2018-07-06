@@ -5,6 +5,14 @@ The group project is your opportunity to work as you will in the "real world". Y
 ## Projects and Teams
 * Students will present project ideas to the cohort. Any student may present, and students do not need to commit to their own idea.
   * If you have a friend in the industry, consider asking them for project ideas. This works especially well when the person went to a bootcamp and/or is familiar with what a junior developer team could accomplish in two weeks.
+  * Here's how to present your idea.
+    * It should take 1-3 minutes.
+    * You do not need to use a computer to give your presentation, although in the past, students who go to this length (showing slides, similar sites, or prototypes) usually get their projects chosen.
+    * Come up with a description, that's approx 5 words or less, e.g. "Twitter Clone" or "Group messaging centered around events". You may optionally have a project name (which can be changed later). Students will refer to these descriptions/names when voting.
+    * Mention MVP tasks. What's the main idea? Importantly, talk about the things you WOULDN'T do, such that you can focus on what matters.
+    * Mention a bulleted list of technologies that you'd use besides the obvious ones like React and Node/Express. Include 3rd-party APIs you'd probably use. E.g. "We'd use Google Maps to show the event locations, Calendly to show calendars, sockets for real-time chat, and Stripe to accept payments. I'd like to try MobX instead of Redux because I think we'd be more productive."
+    * Finally, mention how you think this project is good for highlighting your skills to employers.
+
 * Students will vote to express project preference (not team preference).
 * The teams are ultimately determined by staff.
 * The projects are ultimately approved by staff. Changes/pivots can be accepted but must be approved by staff.
@@ -15,6 +23,7 @@ The group project is your opportunity to work as you will in the "real world". Y
 ### Technical Requirements
 * 2 unit tests per person
 * 2 endpoint tests per person
+* 2 end-to-end tests per person
 
 ### Project Management Requirements
 * 50 Tasks in Trello, before coding
