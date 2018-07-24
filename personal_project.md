@@ -102,6 +102,8 @@ Responsive design means that your application looks good regardless of the size 
 
 Gotchas: Layout and design take alot of time. Making your site look good in multiple layouts will take even more time. BUT if there's a chance an employer may visit your site on their mobile device, this could be valuable time spent!
 
+To earn points for responsive design, your app should look good and work well for mobile sizes and desktop sizes; other sizes are not expected (e.g. tablets, 4K TV's, etc).
+
 ### Custom
 
 For any points you want that aren't mentioned here:
