@@ -22,8 +22,8 @@ The group project is your opportunity to work as you will in the "real world". Y
 
 ### Technical Requirements
 * 2 unit tests per person
-* 2 endpoint tests per person
-* 2 end-to-end tests per person
+* 2 integration tests per person
+* End-to-end (aka E2E) tests with Cypress are not required but will probably help your project!
 
 ### Project Management Requirements
 * 50 Tasks in Trello, before coding
