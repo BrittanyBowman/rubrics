@@ -310,10 +310,4 @@ Your presentation must be within 60 seconds of your target to get 10 points. The
 
 ## Awards
 
-* Best Overall
-* Most Technical
-* Best Presentation
-* Best CSS/Design
-* Best solution for a business
-
-Each award will have a first place project and a runner-up.
+Your campus may have awards for personal projects. Ask a mentor.
