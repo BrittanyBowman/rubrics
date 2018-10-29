@@ -226,7 +226,7 @@ Examples of CSS-in-JS libraries:
 
 Sass and Less are both CSS preprocessors, meaning they extend the CSS language, adding features that allow variables, mixins, functions, and many other techniques. They are a way to simplify your CSS workflow, making development and maintenance tasks easier. Though they are both essentially doing the same job, Sass is used far more in the industry and it is the recommended one if you choose to use a CSS preprocessor.
 
-Points: Using at minimum one example each of variables, mixins, and inheritance as well as 50% of your project wide styling being done in Sass/Less format is the requirment for points.
+Points: Using at minimum one example each of variables, mixins, functions, partials, and inheritance as well as 50% of your project wide styling being done in Sass/Less format is the requirment for points.
 
 Gotchas:
 
